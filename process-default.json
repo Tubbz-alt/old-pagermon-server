@@ -1,6 +1,6 @@
 {
   "name"             : "pagermon",
-  "cwd"              : "/home/ubuntu/workspace/server",
+  "cwd"              : "/home/user/pagermon-server",
   "script"           : "app.js",
   "node_args"        : ["--harmony"],
   "error_file"       : "logs/node-app.stderr.log",
